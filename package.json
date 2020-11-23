@@ -5,6 +5,7 @@
   "dependencies": {
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
+    "node": "^15.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-ga": "^3.2.1",
