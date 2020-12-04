@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Priamarly Skilled in Javascript I priamarly use React, NodeJs to build out aplications. I have also experiances horizontaliy scalling deployed apps via AWS EC2 instaces, tuning my aplications via k6, and new relec to help with load testing",
     "education":[
       {
         "school":"Oregon State University",
@@ -70,45 +70,55 @@
 
       {
         "name":"React JS",
-        "level":"95%",
+        "level":"90%",
+        "text":"Skilled in react and able to create rich web applications that can render new information dynamically. ",
         "image": "./images/tech/reactjs.png"
 
       },
 
       {
-        "name":"Styled Components",
-        "level":"85%",
-        "image": "./images/tech/styledcomponents.png"
+        "name":"NodeJS/Express",
+        "level":"80%",
+        "text":" hello yall",
+        "image": "./images/tech/expressnode.png"
       },
+
+
       {
         "name":"CSS3+/HTML5",
-        "level":"83%",
+        "level":"70%",
+        "text":" The latest evolution of HTML and CSS, able to create multi media and User-friendly web pages with advanced new styling features.",
         "image": "./images/tech/htmlcss.png"
       },
       {
-        "name":"NodeJS/Express",
-        "level":"89%",
-        "image": "./images/tech/expressnode.png"
+        "name":"Styled Components",
+        "level":"70%",
+        "text":" A CSS-in-JS styling framework that allows rapid built of custom reusable React components",
+        "image": "./images/tech/styledcomponents.png"
       },
 
       {
         "name":"SQL",
-        "level":"85%",
+        "level":"80%",
+        "text":" hello yall",
         "image": "./images/tech/postgresql.png"
       },
       {
         "name":"MongoDB",
-        "level":"75%",
+        "level":"60%",
+        "text":" hello yall",
         "image": "./images/tech/Mongodb.png"
       },
       {
         "name":"Docker",
-        "level":"78%",
+        "level":"55%",
+        "text":"Able to containerize and deploy full stack applications and leverage docker compose for fast containerization. Experienced in deploying via AWS EC2 instances.",
         "image": "./images/tech/docker.png"
       },
       {
         "name":"AWS",
-        "level":"83%",
+        "level":"55%",
+        "text":" hello yall",
         "image": "./images/tech/aws.png"
       }
     ]
