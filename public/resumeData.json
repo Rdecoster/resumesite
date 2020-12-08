@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Primary Skilled in Javascript with React, Node.Js, and SQL databases to build full stack web applications. I also experience horizontally scaling deployed apps via AWS EC2 instances, tuning my applications via k6, and new relic to help with load testing. Other technologies of note include GIT, NPM, Webpack, CSS modules, Jest/Enzyme, Mocha/Chai, Axios, Nginx, Heroku, Google App Engine, Linux, and VS Code.",
+    "skillmessage":"Primary Skilled in Javascript with React, Node.Js, and SQL databases to build full stack web applications. I'm also experienced in horizontally scaling deployed apps via AWS EC2 instances, tuning my applications via k6 for preformance, and new relic to help with load testing. Other technologies of note include GIT, NPM, Webpack, CSS modules, Jest/Enzyme, Mocha/Chai, Axios, Nginx, Heroku, Google App Engine, Linux, and VS Code.",
     "education":[
       {
         "school":"Oregon State University",
