@@ -37,19 +37,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Priamarly Skilled in Javascript I priamarly use React, NodeJs to build out aplications. I have also experiances horizontaliy scalling deployed apps via AWS EC2 instaces, tuning my aplications via k6, and new relec to help with load testing",
+    "skillmessage":"Primary Skilled in Javascript with React, Node.Js, and SQL databases to build full stack web applications. I also experience horizontally scaling deployed apps via AWS EC2 instances, tuning my applications via k6, and new relic to help with load testing. Other technologies of note include GIT, NPM, Webpack, CSS modules, Jest/Enzyme, Mocha/Chai, Axios, Nginx, Heroku, Google App Engine, Linux, and VS Code.",
     "education":[
       {
         "school":"Oregon State University",
-        "degree":"Sciece",
-        "graduated":"2010",
-        "description":"Food Science & Technology. How to think crieticaly and creditclty think about brewing beer."
+        "degree":"Science",
+        "graduated":"2011",
+        "description":"Studied Food Science & Technology with minors in chemistry, and business entrepreneurship."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
       }
     ],
     "work":[
@@ -70,7 +70,7 @@
 
       {
         "name":"React JS",
-        "level":"90%",
+        "level":"75%",
         "text":"Skilled in react and able to create rich web applications that can render new information dynamically. ",
         "image": "./images/tech/reactjs.png"
 
@@ -78,8 +78,8 @@
 
       {
         "name":"NodeJS/Express",
-        "level":"80%",
-        "text":" hello yall",
+        "level":"60%",
+        "text":" Using Node.Js as my server-side runtime environment with the Express Framework I am able to quickly build lightweight, fast, and scalable backend.",
         "image": "./images/tech/expressnode.png"
       },
 
@@ -92,33 +92,33 @@
       },
       {
         "name":"Styled Components",
-        "level":"70%",
+        "level":"60%",
         "text":" A CSS-in-JS styling framework that allows rapid built of custom reusable React components",
         "image": "./images/tech/styledcomponents.png"
       },
 
       {
         "name":"SQL",
-        "level":"80%",
-        "text":" hello yall",
+        "level":"60%",
+        "text":"A relation database that I am able to build databases from scratch via the command line interface. Experiences in optimizing search speeds, importing data, and deploying in the cloud.",
         "image": "./images/tech/postgresql.png"
       },
       {
         "name":"MongoDB",
-        "level":"60%",
-        "text":" hello yall",
+        "level":"50%",
+        "text":"A non-relational database I used to create rapid mvp of applications when the data format can change over the development processes, easy to scale horizontally. ",
         "image": "./images/tech/Mongodb.png"
       },
       {
         "name":"Docker",
-        "level":"55%",
+        "level":"50%",
         "text":"Able to containerize and deploy full stack applications and leverage docker compose for fast containerization. Experienced in deploying via AWS EC2 instances.",
         "image": "./images/tech/docker.png"
       },
       {
         "name":"AWS",
         "level":"55%",
-        "text":" hello yall",
+        "text":"Able to deploy and horizontally scale full stack applications hosted by AWS on EC2 instances and host data using S3. Using leveragesing amazons backed in services or building from scratch.",
         "image": "./images/tech/aws.png"
       }
     ]
