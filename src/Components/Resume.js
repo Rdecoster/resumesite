@@ -65,11 +65,12 @@ class Resume extends Component {
             </p>
 
 				<div className="bars">
-				   <ul className="skills">
+				   <div className="skills">
 					  {skills}
-					</ul>
-				</div>
+					</div>
+
 			</div>
+      </div>
       </div>
    </section>
     );

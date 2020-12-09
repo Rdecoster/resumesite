@@ -295,22 +295,28 @@ ul#nav li.current a { color: #F06000; }
 	text-align: left;
 }
 .bars .skills {
+   /* padding: 30px;
+   margin: 20px; */
    display: flex;
    flex-wrap: wrap;
   align-items: baseline;
-  	margin-top: 100px;
+  	/* margin: 20px; */
    list-style: none;
    flex-direction: row;
    width: 100%;
 }
 
 .bars .skills div{
-   padding: 25px;
-
-   max-width: 300px;
+   padding-top: 30px;
+   padding-right: 30px;
+   padding-bottom: 20px;
+   max-width: 230px;
    flex: 1 1 auto;
+   justify-content: left;
 
 }
+
+
 .bars li {
    display: flex;
    position: relative;
@@ -321,7 +327,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars div {
    flex: 1 1 auto;
-   width: 1200px;
+   width: 1400px;
    overflow: none;
 }
 .bar img {
@@ -331,7 +337,7 @@ ul#nav li.current a { color: #F06000; }
 
 }
 .bars li em {
-	font: 12px 'opensans-bold', sans-serif;
+	font: 10px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;

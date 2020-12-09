@@ -2,7 +2,7 @@
   "main": {
     "name":"Ryan DeCoster",
     "occupation":"Software Engineer",
-    "description":"I am an engineer with  a passion for creating products that will excite and delight the user. With over 6 years experience as a product developer, and project manager with other experiences in research, and quality.I have spent most of my career looking for innovative solutions to complex problems to benefit the consume",
+    "description":"I am a full stack software engineer with  a passion for creating products that will excite and delight the user. With over 6 years experience as a product developer, and project manager with other experiences in research, and quality.I have spent most of my career looking for innovative solutions to complex problems to benefit the consume",
     "image":"profilepic.jpg",
     "bio":"",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -100,7 +100,7 @@
       {
         "name":"SQL",
         "level":"60%",
-        "text":"A relation database that I am able to build databases from scratch via the command line interface. Experiences in optimizing search speeds, importing data, and deploying in the cloud.",
+        "text":" I am able to build databases from scratch via the command line interface. Experiences in optimizing search speeds, importing data, and deploying in the cloud.",
         "image": "./images/tech/postgresql.png"
       },
       {
@@ -118,7 +118,7 @@
       {
         "name":"AWS",
         "level":"55%",
-        "text":"Able to deploy and horizontally scale full stack applications hosted by AWS on EC2 instances and host data using S3. Using leveragesing amazons backed in services or building from scratch.",
+        "text":"Use AWS to deploy and horizontally scale full stack applications hosted on EC2 instances and store files using S3. Can either use amazons backed in services or building from scratch.",
         "image": "./images/tech/aws.png"
       }
     ]
