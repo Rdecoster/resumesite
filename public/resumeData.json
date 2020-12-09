@@ -118,7 +118,7 @@
       {
         "name":"AWS",
         "level":"55%",
-        "text":"Use AWS to deploy and horizontally scale full stack applications hosted on EC2 instances and store files using S3. Can either use amazons backed in services or building from scratch.",
+        "text":"I use AWS to deploy and scale full stack applications hosted on EC2 instances and store files using S3. Can either use amazons pre-built solutions or building from scratch.",
         "image": "./images/tech/aws.png"
       }
     ]
